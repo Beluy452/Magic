@@ -790,13 +790,13 @@ footer .instagram-widget .col-sm-4 {
 }
 footer .insta-img {
   position: relative;
+  margin-bottom: 20px;
 }
 footer .insta-img:hover .shadow-block {
   opacity: 1;
 }
 footer .insta-img img {
   max-width: 99px;
-  margin-bottom: 20px;
 }
 footer .insta-img .shadow-block {
   opacity: 0;
