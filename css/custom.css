@@ -434,6 +434,7 @@ header .title-home p {
   border-width: 1px;
   letter-spacing: 4px;
   font: 400 14px Montserrat, sans-serif;
+  padding-top: 20px;
 }
 #team .join-button .my-button::after {
   background-color: #000;
@@ -525,7 +526,7 @@ header .title-home p {
   max-width: 170px;
   height: 50px;
   font: bold 12px Montserrat, sans-serif;
-  margin-bottom: 25px;
+  margin-top: 25px;
 }
 #blog {
   font-family: 'Montserrat', sans-serif;
